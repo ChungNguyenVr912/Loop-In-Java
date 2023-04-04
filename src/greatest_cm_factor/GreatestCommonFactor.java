@@ -1,4 +1,4 @@
-package GreatestCmFactor;
+package greatest_cm_factor;
 
 import java.util.Scanner;
 
